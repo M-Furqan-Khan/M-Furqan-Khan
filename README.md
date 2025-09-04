@@ -3,7 +3,7 @@
     <h1> Hi there, I'm Muhammad Furqan Khan👋</h1>
   </div>
 <p align="center">
-<a href="https://github.com/muaazasif"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analysis+and+Python+Developer;+Power+BI+Developer&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
+<a href=""><img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analysis+and+Python+Developer;+Power+BI+Developer&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
 
 <!-- animation end  -->
 			
@@ -25,8 +25,8 @@
  <div align="center"  class="icons-social" style="margin-center: 10px;">
 <div>   
     <a href="mailto:furqanextras@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=F0DB4F" alt="Muhammad Furqan Khan - Email"></a>
-    <a href="https://pk.linkedin.com/in/muhammad-furqan-86b718183" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F" alt="Muhammad Furqan-Linkedin"></a><br>
-    <a href="https://www.facebook.com/m.furq/" target="_blank"><img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=Facebook&logoColor=F0DB4F" alt="Muhammad Furqan Facebook"></a>	
+    <a href="https://pk.linkedin.com/in/muhammad-furqan-86b718183" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F" alt="Muhammad Furqan-Linkedin"></a>
+<a href="https://www.facebook.com/m.furq/" target="_blank"><img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=Facebook&logoColor=F0DB4F" alt="Muhammad Furqan Facebook"></a>	
 </div>
 
 </p>
